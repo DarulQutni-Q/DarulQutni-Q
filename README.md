@@ -52,14 +52,11 @@
 <!-- ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DarulQutni-Q&theme=tokyonight&no-frame=true&margin-w=15) -->
 ---
-
 <!--## 📂 Featured Projects
 - [🔥 Terminal Adventure Game](https://github.com/darulqutni/terminal-adventure) – Python text-based game in terminal.
  - [🎨 Ubuntu Theme Tweaks](https://github.com/darulqutni/ubuntu-theme-tweaks) – My personal Linux UI mods. -->
 <!-- - [🐧 Linux Automation Scripts](https://github.com/DarulQutni-Q/LinuxScripts) -->
 <!-- - [⚙️ Oh My Posh Config](https://github.com/darulqutni/omp-config) – My terminal prompt setup. -->
-
----
 <!-- 
 ### 📫 Contact Me
 - 💌 Email: [your_email@example.com](mailto:your_email@example.com)
