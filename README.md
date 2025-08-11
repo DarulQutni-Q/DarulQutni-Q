@@ -32,18 +32,30 @@
 ---
 
 ## 📊 GitHub Stats
-![Darul's GitHub stats](https://github-readme-stats.vercel.app/api?username=darulqutni&show_icons=true&theme=dracula) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darulqutni&show_icons=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darulqutni&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=dracula" />
+</p>
+
+<!--![Darul's GitHub stats](https://github-readme-stats.vercel.app/api?username=darulqutni&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darulqutni&layout=compact&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=dracula) -->
 
 
 <!-- ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DarulQutni-Q&theme=tokyonight&no-frame=true&margin-w=15) -->
 ---
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects
 - [🔥 Terminal Adventure Game](https://github.com/darulqutni/terminal-adventure) – Python text-based game in terminal.
-<!-- - [🎨 Ubuntu Theme Tweaks](https://github.com/darulqutni/ubuntu-theme-tweaks) – My personal Linux UI mods. -->
+ - [🎨 Ubuntu Theme Tweaks](https://github.com/darulqutni/ubuntu-theme-tweaks) – My personal Linux UI mods. -->
 <!-- - [🐧 Linux Automation Scripts](https://github.com/DarulQutni-Q/LinuxScripts) -->
 <!-- - [⚙️ Oh My Posh Config](https://github.com/darulqutni/omp-config) – My terminal prompt setup. -->
 
