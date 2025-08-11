@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+𝐃𝐚𝐫𝐮𝐥+𝐐𝐮𝐭𝐧𝐢;Linux+Enthusiast+%7C+Python+Learner;Always+exploring+new+tech!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Darul+Qutni;Linux+Enthusiast+%7C+Python+Learner;Always+exploring+new+tech!">
 </p>
 
 ---
@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 ![Darul's GitHub stats](https://github-readme-stats.vercel.app/api?username=darulqutni&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darulqutni&layout=compact&theme=dracula)
 
 
