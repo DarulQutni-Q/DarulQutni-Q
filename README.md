@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=dracula" />
 </p>
 
 <!--![Darul's GitHub stats](https://github-readme-stats.vercel.app/api?username=darulqutni&show_icons=true&theme=dracula) 
