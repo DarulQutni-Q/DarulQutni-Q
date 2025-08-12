@@ -35,14 +35,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darulqutni&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darulqutni&layout=compact&theme=tokyonight" />
 </p>
-
-<!--<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=dracula" />
-</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=tokyonight" />
+</p>
 
 <!--![Darul's GitHub stats](https://github-readme-stats.vercel.app/api?username=darulqutni&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darulqutni&layout=compact&theme=dracula)
