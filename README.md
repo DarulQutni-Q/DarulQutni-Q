@@ -6,7 +6,7 @@
 ---
 ## 💻 About Me
 - 🐧 Linux & Open Source enthusiast (currently rocking **Ubuntu 24.04** with GNOME 46).
-- 🐍 Learning **Python** step-by-step (if-else ✅, loops 🚧, next stop: functions ⚡).
+- 🐍 Learning **Python** and **C** step-by-step 
 - 🎯 Goal: Become a **Software Engineer** who builds cool and useful tools.
 - ⚡ Fun fact: I customize my terminal more than my room.
 
