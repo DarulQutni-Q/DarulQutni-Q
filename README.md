@@ -20,7 +20,8 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -35,9 +36,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darulqutni&show_icons=true&theme=tokyonight" />
 </p>
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darulqutni&layout=compact&theme=tokyonight" />
-</p> -->
+</p>
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DarulQutni-Q&theme=tokyonight" />
 </p> -->
