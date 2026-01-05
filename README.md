@@ -43,12 +43,12 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=darulqutni&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darulqutni&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
-
+<!--
 ### Streak & Contributions
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darulqutni&theme=radical" alt="GitHub Streak" />
 </p>
-
+-->
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/darul-qutni-5b1517348">
