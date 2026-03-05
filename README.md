@@ -33,10 +33,10 @@
 ### Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-## 📊 GitHub Analytics
+<!--## 📊 GitHub Analytics
 
 ### Stats & Contributions
 <p align="center">
@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darulqutni&theme=radical" alt="GitHub Streak" />
 </p>
 -->
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/darul-qutni-5b1517348">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
