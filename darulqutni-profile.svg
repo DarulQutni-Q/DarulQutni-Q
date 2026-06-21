@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="100">        .--.        </tspan>
+<tspan x="15" y="120">       |o_o |       </tspan>
+<tspan x="15" y="140">       |:_/ |       </tspan>
+<tspan x="15" y="160">      //   \ \      </tspan>
+<tspan x="15" y="180">     (|     | )     </tspan>
+<tspan x="15" y="200">    /'\_   _/`\     </tspan>
+<tspan x="15" y="220">    \___)=(___/     </tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">darulqutni@cachyos</tspan><tspan class="cc"> -———————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">CachyOS Linux (Hyprland)</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: .................... </tspan><tspan class="value">7.0.12-1-cachyos</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">ADVAN 1701</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">CPU</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">i5-12600H (12C/16T)</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">GPU</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Intel Iris Xe Graphics</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Memory</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">8.3GiB / 23GiB</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Disk</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">93G / 157G (60%)</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">fish</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Packages</tspan><tspan class="cc">: ................... </tspan><tspan class="value">2114 (pacman)</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">2 hours, 21 minutes</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">. </tspan><tspan class="key">Primary</tspan><tspan class="cc">: ....... </tspan><tspan class="value">Python, JavaScript</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">. </tspan><tspan class="key">Other</tspan><tspan class="cc">: ........... </tspan><tspan class="value">HTML, CSS, SQL, Bash</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Fields</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Sistem Informasi</tspan>
+<tspan x="390" y="350">- Contact</tspan><tspan class="cc"> -——————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: ................................... </tspan><tspan class="value">darulqutni</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Platform</tspan><tspan class="cc">: .............................. </tspan><tspan class="value">Hermes Agent</tspan>
+<tspan x="390" y="430">- GitHub Stats</tspan><tspan class="cc"> -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="value">1</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="value">0</tspan><tspan class="cc"> | </tspan><tspan class="key">Following</tspan><tspan class="cc">: </tspan><tspan class="value">0</tspan>
+</text>
+</svg>
