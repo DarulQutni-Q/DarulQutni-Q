@@ -27,12 +27,10 @@ Sistem Informasi · Developer
 
 [![Instagram](https://img.shields.io/badge/-@_qutni-161b22?style=flat-square&logo=instagram&logoColor=ffa657)](https://instagram.com/_qutni)
 [![Email](https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=a5d6ff)](mailto:darulqutni512@gmail.com)
-<!-- TODO: ganti YOUR_LINKEDIN dengan handle kamu -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=a5d6ff)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarulQutni-Q&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&icon_color=a5d6ff&hide=contribs" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarulQutni-Q&layout=compact&hide_border=true&langs_count=6&bg_color=161b22&title_color=ffa657&text_color=c9d1d9" height="150" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=DarulQutni-Q&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&icon_color=a5d6ff&hide=contribs" height="150" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarulQutni-Q&layout=compact&hide_border=true&langs_count=6&bg_color=161b22&title_color=ffa657&text_color=c9d1d9" height="150" alt="top langs" />
