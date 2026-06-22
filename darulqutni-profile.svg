@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="680px" height="450px" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="680px" height="450px" fill="#161b22" rx="15"/>
+<text x="20" y="30" fill="#c9d1d9">
+<tspan x="20" y="45">DarulQutni-Q@cachyOS</tspan><tspan class="cc"> -————————————————————————————-—-</tspan>
+<tspan x="20" y="75" class="cc">.</tspan><tspan class="key">OS</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Windows 10 / CachyOS (Hyprland)</tspan>
+<tspan x="20" y="95" class="cc">.</tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">University of Malikussaleh</tspan>
+<tspan x="20" y="115" class="cc">.</tspan><tspan class="key">CPU</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">i5-12600H (12C/16T)</tspan>
+<tspan x="20" y="155" class="cc">.</tspan><tspan class="key">Memory</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">24GiB</tspan>
+<tspan x="20" y="175" class="cc">.</tspan><tspan class="key">Editor</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Neovim (nvim)</tspan>
+<tspan x="20" y="195" class="cc">.</tspan><tspan class="key">Shell</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">fish</tspan>
+<tspan x="20" y="215" class="cc">.</tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">18 years, 8 months, 5 days</tspan>
+<tspan x="20" y="245" class="cc">.</tspan><tspan class="key">Languages</tspan><tspan class="cc">: ................... </tspan><tspan class="value">Python, C++, Lua, Javascript</tspan>
+<tspan x="20" y="265" class="cc">.</tspan><tspan class="key">Languages</tspan><tspan class="cc">: ................... </tspan><tspan class="value">Indonesian, English</tspan>
+<tspan x="20" y="285" class="cc">.</tspan><tspan class="key">Fields</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Information System</tspan>
+<tspan x="20" y="320">- Contact</tspan><tspan class="cc"> -————————————————————————————-—-</tspan>
+<tspan x="20" y="340" class="cc">.</tspan><tspan class="key">GitHub</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">DarulQutni-Q</tspan>
+<tspan x="20" y="360" class="cc">.</tspan><tspan class="key">Instagram</tspan><tspan class="cc">: ................... </tspan><tspan class="value">@_qutni</tspan>
+<tspan x="20" y="395">- GitHub Stats</tspan><tspan class="cc"> -———————————————————————-—-</tspan>
+<tspan x="20" y="415" class="cc">.</tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="value">3</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="value">0</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="value">0</tspan><tspan class="cc"> | </tspan><tspan class="key">Following</tspan><tspan class="cc">: </tspan><tspan class="value">2</tspan>
+</text>
+</svg>
