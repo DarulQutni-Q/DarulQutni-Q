@@ -9,7 +9,7 @@
 
 ```text
 Darul Qutni
-Sistem Informasi · Developer
+Sistem Informasi · Student · Developer 
 ```
 
 <br/>
@@ -27,7 +27,7 @@ Sistem Informasi · Developer
 
 [![Instagram](https://img.shields.io/badge/-@_qutni-161b22?style=flat-square&logo=instagram&logoColor=ffa657)](https://instagram.com/_qutni)
 [![Email](https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=a5d6ff)](mailto:darulqutni512@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=a5d6ff)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=a5d6ff)](https://www.linkedin.com/in/darul-qutni-5b1517348)
 
 </td>
 </tr>
