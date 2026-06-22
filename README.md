@@ -27,7 +27,7 @@ Sistem Informasi · Student · Developer
 
 [![Instagram](https://img.shields.io/badge/-@_qutni-161b22?style=flat-square&logo=instagram&logoColor=ffa657)](https://instagram.com/_qutni)
 [![Email](https://img.shields.io/badge/-darulqutni512@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=a5d6ff)](mailto:darulqutni512@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-darulqutni-161b22?style=flat-square&logo=linkedin&logoColor=a5d6ff)](https://www.linkedin.com/in/darul-qutni-5b1517348)
+[![Linkedin](https://img.shields.io/badge/-darulqutni-161b22?style=flat-square&logo=linkedin&logoColor=a5d6ff)](https://www.linkedin.com/in/darul-qutni-5b1517348)
 
 </td>
 </tr>
