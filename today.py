@@ -7,7 +7,7 @@ import urllib.request
 
 USERNAME = os.environ.get('USER_NAME', 'DarulQutni-Q')
 BIRTHDAY = datetime.date(2007, 10, 17)
-SVG_PATH = os.path.join(os.path.dirname(__file__), 'darulqutni-profile.svg')
+SVG_PATH = os.path.join(os.path.dirname(__file__), 'profile.svg')
 
 def calculate_uptime(birthday, today=None):
     if today is None:
@@ -96,7 +96,7 @@ def update_svg():
     with open(SVG_PATH, 'w', encoding='utf-8') as f:
         f.write(content)
 
-    print("darulqutni-profile.svg successfully updated!")
+    print("profile.svg successfully updated!")
 
 if __name__ == '__main__':
     update_svg()

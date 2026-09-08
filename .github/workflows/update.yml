@@ -31,5 +31,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add darulqutni-profile.svg
+          git add profile.svg
           git diff --staged --quiet || (git commit -m "Update profile stats and uptime [skip ci]" && git push)
