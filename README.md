@@ -1,30 +1,34 @@
-<div align="center">
+<table border="0">
+<tr>
+<td width="58%" valign="middle">
+  <img src="./darulqutni-profile.svg" alt="darulqutni" width="100%" />
+</td>
+<td width="42%" valign="middle">
 
-<img src="./darulqutni-profile.svg" alt="Darul Qutni Profile" width="680" />
+### `~ whoami`
 
-<br/>
-<br/>
-
-### Hello, I'm Darul 👋
-
-Information Systems student at Universitas Malikussaleh, exploring systems, web craft, and purposeful tools.
-
-</div>
-
----
-
-### 🌿 About & Focus
-
-- **Stack & Environment**: Building with **TypeScript**, **JavaScript**, **PHP**, and **C++** in a minimal Linux setup (**Niri**, **fish**, **Neovim**).
-- **Featured Project**: Developing **[AndalanTools](https://github.com/DarulQutni-Q/AndalanTools)** — an offline-first mobile utility crafted with an Everforest aesthetic.
-- **Interests**: Reading, exploring system architectures, and crafting clean user interfaces.
+```text
+Darul Qutni
+Sistem Informasi · Student · Developer 
+```
 
 <br/>
 
-<div align="center">
+![TypeScript](https://img.shields.io/badge/-TypeScript-2d353b?style=flat-square&logo=typescript&logoColor=7fbbb3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2d353b?style=flat-square&logo=javascript&logoColor=dbbc7f)
+![PHP](https://img.shields.io/badge/-PHP-2d353b?style=flat-square&logo=php&logoColor=a7c080)
+![C++](https://img.shields.io/badge/-C++-2d353b?style=flat-square&logo=cplusplus&logoColor=e69875)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@__qutni-2d353b?style=flat-square&logo=instagram&logoColor=e69875)](https://instagram.com/_qutni)
-[![Email](https://img.shields.io/badge/Email-darulqutni512@gmail.com-2d353b?style=flat-square&logo=gmail&logoColor=a7c080)](mailto:darulqutni512@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DarulQutni--Q-2d353b?style=flat-square&logo=github&logoColor=7fbbb3)](https://github.com/DarulQutni-Q)
+![Linux](https://img.shields.io/badge/-Linux-2d353b?style=flat-square&logo=linux&logoColor=d3c6aa)
+![fish](https://img.shields.io/badge/-fish-2d353b?style=flat-square&logo=gnometerminal&logoColor=a7c080)
 
-</div>
+<br/>
+
+[![Instagram](https://img.shields.io/badge/-@_qutni-2d353b?style=flat-square&logo=instagram&logoColor=e69875)](https://instagram.com/_qutni)
+[![Email](https://img.shields.io/badge/-darulqutni512@gmail.com-2d353b?style=flat-square&logo=gmail&logoColor=7fbbb3)](mailto:darulqutni512@gmail.com)
+
+</td>
+</tr>
+</table>
+
+Currently building **[AndalanTools](https://github.com/DarulQutni-Q/AndalanTools)** (offline-first mobile utilities) and tinkering with Linux setups. Feel free to connect!
