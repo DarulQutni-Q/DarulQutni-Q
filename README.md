@@ -31,4 +31,4 @@ Sistem Informasi · Student · Developer
 </tr>
 </table>
 
-Currently building **[AndalanTools](https://github.com/DarulQutni-Q/AndalanTools)** (offline-first mobile utilities) and tinkering with Linux setups. Feel free to connect!
+Just an Information Systems student exploring web development, Linux setups, and building simple tools. Always open to connect and learn!
