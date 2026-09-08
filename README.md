@@ -1,7 +1,7 @@
 <table border="0">
 <tr>
 <td width="58%" valign="middle">
-  <img src="./darulqutni-profile.svg?v=3" alt="darulqutni" width="100%" />
+  <img src="./darulqutni-profile.svg?v=4" alt="darulqutni" width="100%" />
 </td>
 <td width="42%" valign="middle">
 
