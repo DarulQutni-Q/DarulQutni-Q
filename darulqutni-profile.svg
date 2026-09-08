@@ -7,16 +7,17 @@
   -webkit-size-adjust: 109%;
   size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
+.key {fill: #e69875;}
+.value {fill: #a7c080;}
+.val-alt {fill: #7fbbb3;}
+.cc {fill: #56635f;}
+.user {fill: #a7c080;}
+.host {fill: #7fbbb3;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="680px" height="450px" fill="#161b22" rx="15"/>
-<text x="20" y="30" fill="#c9d1d9">
-<tspan x="20" y="45">DarulQutni-Q@cachyOS</tspan><tspan class="cc"> -————————————————————————————-—-</tspan>
+<rect width="678px" height="448px" x="1" y="1" fill="#2d353b" stroke="#3d484d" stroke-width="1.5" rx="14"/>
+<text x="20" y="30" fill="#d3c6aa">
+<tspan x="20" y="45" class="user">DarulQutni-Q</tspan><tspan class="cc">@</tspan><tspan class="host">cachyOS</tspan><tspan class="cc"> -————————————————————————————-—-</tspan>
 <tspan x="20" y="75" class="cc">.</tspan><tspan class="key">OS</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Windows 10 / CachyOS (Niri)</tspan>
 <tspan x="20" y="95" class="cc">.</tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">University of Malikussaleh</tspan>
 <tspan x="20" y="115" class="cc">.</tspan><tspan class="key">CPU</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">i5-12600H (12C/16T)</tspan>
