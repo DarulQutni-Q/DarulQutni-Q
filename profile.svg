@@ -19,7 +19,7 @@ text, tspan {white-space: pre;}
 <text x="20" y="30" fill="#d3c6aa">
 <tspan x="20" y="45" class="user">DarulQutni-Q</tspan><tspan class="cc">@</tspan><tspan class="host">cachyOS</tspan><tspan class="cc"> -————————————————————————————-—-</tspan>
 <tspan x="20" y="75" class="key">OS</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">CachyOS / Windows 10</tspan>
-<tspan x="20" y="95" class="key">Host</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Universitas Malikussaleh</tspan>
+<tspan x="20" y="95" class="key">Host</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">University of Malikussaleh</tspan>
 <tspan x="20" y="115" class="key">WM</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Niri (Wayland)</tspan>
 <tspan x="20" y="135" class="key">CPU</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">i5-12600H (12C/16T)</tspan>
 <tspan x="20" y="155" class="key">Memory</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">DDR5 24GiB</tspan>

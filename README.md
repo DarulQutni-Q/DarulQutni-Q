@@ -1,9 +1,9 @@
 <table border="0">
 <tr>
-<td width="58%" valign="middle">
+<td width="64%" valign="middle">
   <img src="./profile.svg" alt="darulqutni" width="100%" />
 </td>
-<td width="42%" valign="middle">
+<td width="36%" valign="middle">
 
 ### `~ whoami`
 
