@@ -1,7 +1,7 @@
 <table border="0">
 <tr>
 <td width="58%" valign="middle">
-  <img src="./darulqutni-profile.svg" alt="darulqutni" width="100%" />
+  <img src="./darulqutni-profile.svg?v=3" alt="darulqutni" width="100%" />
 </td>
 <td width="42%" valign="middle">
 
@@ -14,10 +14,10 @@ Sistem Informasi · Student · Developer
 
 <br/>
 
+![C++](https://img.shields.io/badge/-C++-2d353b?style=flat-square&logo=cplusplus&logoColor=e69875)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2d353b?style=flat-square&logo=typescript&logoColor=7fbbb3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2d353b?style=flat-square&logo=javascript&logoColor=dbbc7f)
 ![PHP](https://img.shields.io/badge/-PHP-2d353b?style=flat-square&logo=php&logoColor=a7c080)
-![C++](https://img.shields.io/badge/-C++-2d353b?style=flat-square&logo=cplusplus&logoColor=e69875)
 
 ![Linux](https://img.shields.io/badge/-Linux-2d353b?style=flat-square&logo=linux&logoColor=d3c6aa)
 ![fish](https://img.shields.io/badge/-fish-2d353b?style=flat-square&logo=gnometerminal&logoColor=a7c080)
