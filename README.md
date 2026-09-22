@@ -31,4 +31,4 @@ Sistem Informasi · Student · Developer
 </tr>
 </table>
 
-Just an Information Systems student exploring web development, Linux setups, and building simple tools. Always open to connect and learn!
+Just an Information Systems student exploring DevOps, Linux setups, and building simple tools. Always open to connect and learn!
