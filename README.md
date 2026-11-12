@@ -56,10 +56,3 @@ Just an Information Systems student exploring DevOps, Linux setups, and building
 </picture>
 </p>
 <!-- cool-readme:end -->
-
-## Featured projects
-
-- [CargoTrace](https://github.com/DarulQutni-Q/CargoTrace) — Global multimodal shipment visibility (UAS Web Programming 2). Laravel 12 + MySQL 8 + Sanctum.
-- [inventorySalesLaravel](https://github.com/DarulQutni-Q/inventorySalesLaravel) — Inventory and sales management for sembako distribution (UTS Web Programming 2). Laravel.
-- [SuaraHukum](https://github.com/DarulQutni-Q/Suarahukum) — Civic tech that explains legal documents in plain Indonesian. React + Gemini.
-- [mono75-linux](https://github.com/DarulQutni-Q/mono75-linux) — Linux driver and config utility for the VortexSeries MONO 75 keyboard.
